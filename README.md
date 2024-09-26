@@ -9,3 +9,13 @@ I've always been fascinated by *Pop Art*, where artists use radical and innovati
 
 ![An image of Roy Lichtenstein's work](Images/Christie's_Hopeless_Roy_Lichtenstein_1963.png)
 > _Roy Lichtenstein, Hopeless, 1963, oil and acrylic paint on canvas, 1118 x 1118 mm (Kunstmuseum Basel)_
+
+## Part 2: Coding Technique Exploration
+
+The **Pixel Array** and **Weighted Voronoi Stipplin**g can replicate the visual effects discussed earlier. Through the Pixel Array, by accessing each pixel of the canvas, we are allowed to manipulate their range of colours and movement to create denamic effects and high contrast colour presence that mimic Warhol's silkscreen print effects with more playfulness. And Weighted Voronoi Stippling enables us to render Benday dot style by creating spots and colour blocks, based on the distribution of light and dark colours in the image.
+
+![An example of using Weighted Voronoi Stippling](Images/Weighted_Voronoi_Stippling.png)
+> See fullcode:[_Code example by Daniel Shiffman, Weighted Voronoi Stippling_](https://editor.p5js.org/codingtrain/sketches/_HTZUBPld)
+
+![An example of using the Pixel Array](Images/The_Pixel_Array.png)
+> See fullcode:[_Code example by Daniel Shiffman, Pixel Array_](https://editor.p5js.org/codingtrain/sketches/A92PDk-1z)
