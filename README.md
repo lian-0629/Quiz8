@@ -12,10 +12,13 @@ I've always been fascinated by *Pop Art*, where artists use radical and innovati
 
 ## Part 2: Coding Technique Exploration
 
-The **Pixel Array** and **Weighted Voronoi Stipplin**g can replicate the visual effects discussed earlier. Through the Pixel Array, by accessing each pixel of the canvas, we are allowed to manipulate their range of colours and movement to create denamic effects and high contrast colour presence that mimic Warhol's silkscreen print effects with more playfulness. And Weighted Voronoi Stippling enables us to render Benday dot style by creating spots and colour blocks, based on the distribution of light and dark colours in the image.
-
-![An example of using Weighted Voronoi Stippling](Images/Weighted_Voronoi_Stippling.png)
-> See fullcode:[_Code example by Daniel Shiffman, Weighted Voronoi Stippling_](https://editor.p5js.org/codingtrain/sketches/_HTZUBPld)
+The use of **Pixel Array** and **Weighted Voronoi Stippling** in _p5.js_ can replicate the visual effects discussed earlier. Through the Pixel Array, by accessing each pixel of the canvas, we are allowed to manipulate their range of colours and movement to create denamic effects and high contrast colour presence that mimic Warhol's silkscreen print effects with more playfulness. And Weighted Voronoi Stippling enables us to render Benday dot style by creating spots and colour blocks, based on the distribution of light and dark colours in the image.
 
 ![An example of using the Pixel Array](Images/The_Pixel_Array.png)
-> See fullcode:[_Code example by Daniel Shiffman, Pixel Array_](https://editor.p5js.org/codingtrain/sketches/A92PDk-1z)
+> See fullcode: [_Code example by Daniel Shiffman (Coding Train), **Pixel Array**_](https://editor.p5js.org/codingtrain/sketches/A92PDk-1z)
+
+![An example of using the Pixel Array](Images/Image_Pixels_and_Transforms_in_P5.png)
+> See fullcode: [_Code example by Parametric Online (YouTube), **Pixel Array**_](https://www.youtube.com/watch?v=GZOrpJ-GNiY)
+
+![An example of using Weighted Voronoi Stippling](Images/Weighted_Voronoi_Stippling.png)
+> See fullcode: [_Code example by Daniel Shiffman (Coding Train), **Weighted Voronoi Stippling**_](https://editor.p5js.org/codingtrain/sketches/_HTZUBPld)
